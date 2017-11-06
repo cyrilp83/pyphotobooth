@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 import io, time, os, sys, picamera, pygame
 
 # Display warning for deprecated Picamera functions (since v1.8) / affiche alerte si une fonction depreciee est utilisee 
